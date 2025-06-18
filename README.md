@@ -1,5 +1,8 @@
-
 # airbnb-clone-project
+## 📚 Table of Contents
+- [UI/UX Design Planning](#-uiux-design-planning)
+- [Project Roles and Responsibilities](#-project-roles-and-responsibilities)
+
 ##UI/UX Design Planning
 ###Design Goals
 [ Create an Intuitive Booking Flow,Maintain Visual Consistency,Ensure Fast Loading Times,Prioritize Mobile Responsiveness,Support Accessibility Standards]
@@ -32,4 +35,74 @@ Enhances mobile usability, ensuring the system works well on all devices.]
 [Ensures Visual Consistency,Accelerates Development,Improves Collaboration, Enhances Usability and Accessibility,Reduces Design Debt]
 
 
+##Project Roles and Responsibilities
+##1. Project Manager
+  ### 📌 1. Project Manager
+- **Responsibilities:**
+  - Oversees the project timeline and scope
+  - Coordinates between all team members
+  - Manages deliverables and ensures deadlines are met
+- **Contribution:** Keeps the team aligned, ensures timely progress, and maintains overall project direction.
 
+---
+
+### 💻 2. Frontend Developers
+- **Responsibilities:**
+  - Build and maintain user interfaces using HTML, CSS, JavaScript (React)
+  - Ensure responsive design and cross-browser compatibility
+  - Integrate UI with backend APIs
+- **Contribution:** Delivers a smooth, user-friendly interface and handles the presentation layer of the application.
+
+---
+
+### 🔧 3. Backend Developers
+- **Responsibilities:**
+  - Develop and maintain APIs and server logic
+  - Design and manage databases
+  - Implement authentication, business rules, and booking functionality
+- **Contribution:** Powers the core functionalities and data management of the application.
+
+---
+
+### 🎨 4. Designers
+- **Responsibilities:**
+  - Create UI/UX mockups and design systems using Figma
+  - Define color schemes, typography, and layout standards
+  - Ensure visual consistency and usability
+- **Contribution:** Ensures the app is visually appealing, intuitive, and aligned with user needs.
+
+---
+
+### ✅ 5. QA/Testers
+- **Responsibilities:**
+  - Write and execute test cases
+  - Perform manual and automated testing
+  - Report and verify bugs
+- **Contribution:** Maintains quality by identifying and resolving issues before release.
+
+---
+
+### 🚀 6. DevOps Engineers
+- **Responsibilities:**
+  - Set up deployment pipelines and CI/CD processes
+  - Manage server infrastructure and performance
+  - Monitor uptime, errors, and system health
+- **Contribution:** Ensures the application is stable, secure, and consistently deployable.
+
+---
+
+### 🧠 7. Product Owner
+- **Responsibilities:**
+  - Define feature requirements and user stories
+  - Prioritize the backlog based on business value
+  - Act as the liaison between the team and stakeholders
+- **Contribution:** Keeps the development aligned with business goals and customer needs.
+
+---
+
+### 🔁 8. Scrum Master
+- **Responsibilities:**
+  - Facilitate agile ceremonies (stand-ups, sprint planning, retros)
+  - Remove blockers and support team collaboration
+  - Ensure adherence to agile best practices
+- **Contribution:** Maintains team flow and helps deliver features efficiently and incrementally.
