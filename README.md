@@ -2,6 +2,7 @@
 ## 📚 Table of Contents
 - [UI/UX Design Planning](#-uiux-design-planning)
 - [Project Roles and Responsibilities](#-project-roles-and-responsibilities)
+- [UI Component Patterns](#-ui-component-patterns)
 
 ##UI/UX Design Planning
 ###Design Goals
@@ -106,3 +107,43 @@ Enhances mobile usability, ensuring the system works well on all devices.]
   - Remove blockers and support team collaboration
   - Ensure adherence to agile best practices
 - **Contribution:** Maintains team flow and helps deliver features efficiently and incrementally.
+
+## 🧩 UI Component Patterns
+
+To ensure consistency, reusability, and efficiency in frontend development, we are adopting a component-based architecture. Below are the planned reusable UI components that will be implemented across the application:
+
+### 🔹 Navbar
+- **Elements:**
+  - Logo
+  - Search bar
+  - User navigation menu (e.g. login, profile, bookings)
+  - Responsive mobile menu
+- **Purpose:** Provides primary navigation and quick access to key areas of the site.
+
+---
+
+### 🔹 Property Card
+- **Elements:**
+  - Property image
+  - Title and location
+  - Price per night
+  - Rating and reviews
+  - Favorite (heart) button
+- **Purpose:** Displays essential property information in a grid or list format; used in property listings and search results.
+
+---
+
+### 🔹 Footer
+- **Elements:**
+  - Site navigation links (e.g. About, Help, Terms)
+  - Social media icons
+  - Company contact or info
+- **Purpose:** Provides users with site-wide links and company information, usually placed at the bottom of every page.
+
+---
+
+### ✅ Component Goals
+- Maintain **visual consistency** across the app
+- Support **responsive behavior** for all screen sizes
+- Enable **modularity and reusability** to speed up development and testing
+- Ensure accessibility and performance best practices
