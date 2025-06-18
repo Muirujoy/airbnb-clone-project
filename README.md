@@ -28,5 +28,8 @@ Enhances mobile usability, ensuring the system works well on all devices.]
 **Primary Font**:Circular,Medium(500),16px
 **Headings**:Circular,Bond(700),24px-32px
 **Secondary Text**:Circular,Book(400),14px
+###Design Properties Mockup
+[Ensures Visual Consistency,Accelerates Development,Improves Collaboration, Enhances Usability and Accessibility,Reduces Design Debt]
+
 
 
