@@ -1,3 +1,4 @@
+
 # airbnb-clone-project
 ##UI/UX Design Planning
 ###Design Goals
@@ -17,3 +18,15 @@ Builds trust through professional, intuitive interfaces that feel secure.
 Increases conversion rates by guiding users smoothly from search to payment.
 Improves accessibility so users of all abilities can use the platform.
 Enhances mobile usability, ensuring the system works well on all devices.]
+###Colour styles
+**Primary colour**:#FF5A5F
+**Secondary colour**:008489
+**Background**:#FFFFFF
+**Text**#222222
+**Secondary Text**:#717171
+##Typography
+**Primary Font**:Circular,Medium(500),16px
+**Headings**:Circular,Bond(700),24px-32px
+**Secondary Text**:Circular,Book(400),14px
+
+
